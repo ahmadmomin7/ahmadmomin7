@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ahmad Momin
 
 <p align="center">
-  <img src="assets/intro.gif" alt="Intro GIF" width="850">
+  <img src="intro.gif" alt="Intro GIF" width="850">
 </p>
 
 🌱 Aspiring Software Developer | Learning DSA | Exploring Web & Computer Vision  

@@ -1,6 +1,8 @@
 # 💫 About Me:
 
-<br>
+<table>
+<tr>
+<td width="55%" valign="top">
 
 - 🎓 Third-year B.Tech CSE Student
 - 💻 Passionate about Software Development, DSA & Problem Solving
@@ -11,6 +13,16 @@
 - 🚀 Building practical projects and learning by doing
 - 🤝 Open to collaborating on interesting projects, Open Source & Hackathons
 - ⚡ Fun fact: I enjoy turning problems into working code 😄
+
+</td>
+
+<td width="45%" align="center" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+</td>
+</tr>
+</table>
 
 ## 🌐 Socials:
 
@@ -115,3 +127,5 @@
 <p align="center">
   <i>⭐ Learning step by step. Building useful things. Growing every day.</i>
 </p>
+
+- Mario

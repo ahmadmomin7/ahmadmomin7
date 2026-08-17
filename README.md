@@ -100,10 +100,6 @@
 
 <br><br>
 
-| 🧩 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
-|:---:|:---:|:---:|:---:|
-| **0** | **0** | **0** | **0** |
-
 <br>
 
 <sub>🔄 Stats automatically updated from LeetCode by GitHub Actions.</sub>

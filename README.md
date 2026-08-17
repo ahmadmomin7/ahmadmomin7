@@ -1,143 +1,106 @@
-<!-- Profile README for github.com/ahmadmomin7 -->
+# 💫 About Me:
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6C63FF&height=180&section=header&text=Ahmad%20Momin&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" alt="Ahmad Momin banner" />
-</p>
+<br>
 
-<h1 align="center">Hi there, I'm Ahmad <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="waving hand" /></h1>
+- 🎓 Third-year B.Tech CSE Student
+- 💻 Passionate about Software Development, DSA & Problem Solving
+- ☕ I know **Java** and **Python** for application development and problem-solving
+- 🗄️ Currently learning **MySQL** and strengthening my database skills
+- 🤖 Exploring **Machine Learning** with a focus on strong fundamentals
+- 🌐 Working toward **Full Stack Development** with a backend-first approach
+- 🚀 Building practical projects and learning by doing
+- 🤝 Open to collaborating on interesting projects, Open Source & Hackathons
+- ⚡ Fun fact: I enjoy turning problems into working code 😄
 
-<p align="center">
-  <a href="https://github.com/ahmadmomin7">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Backend-minded+Full-Stack+Learner;Java+%26+Python+Developer;Currently+Learning+MySQL;Exploring+Machine+Learning" alt="Typing introduction" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/ahmadmomin7?tab=followers">
-    <img src="https://img.shields.io/github/followers/ahmadmomin7?style=for-the-badge&logo=github&label=Followers&color=0E75B6" alt="GitHub followers" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ahmadmomin7&style=for-the-badge&color=0E75B6&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
+## 🌐 Socials:
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmadmomin7)
+
+
+# 💻 Tech Stack:
+
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Java Servlets](https://img.shields.io/badge/Java%20Servlets-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%230078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+
+# 📚 Currently Learning:
+
+![MySQL](https://img.shields.io/badge/Learning-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Exploring-Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Backend Development](https://img.shields.io/badge/Backend-Development-6C63FF?style=for-the-badge)
+
+
+# 🚀 What I'm Working On:
+
+- 🧩 Solving **DSA problems in Python**
+- ☕ Building backend applications using **Java**
+- 🗄️ Developing projects with **MySQL**
+- 🤖 Exploring **Machine Learning projects**
+- 👁️ Learning and experimenting with **OpenCV**
+- 🌐 Improving my **Full Stack Development** skills
+
+
+# 🎯 Goals:
+
+- Become strong in **Data Structures & Algorithms**
+- Build solid **backend development** skills
+- Master **Java, Python & MySQL**
+- Build useful **Machine Learning applications**
+- Develop and deploy real-world projects
+- Contribute to **Open Source**
+- Keep learning and building consistently
+
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=ahmadmomin7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://streak-stats.demolab.com/?user=ahmadmomin7&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadmomin7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <h3>👨‍💻 About me</h3>
+[![](https://komarev.com/ghpvc/?username=ahmadmomin7&icon=1&color=0)](https://visitcount.itsvg.in)
 
-      <p>
-        I’m building from programming fundamentals toward real systems—the kind where an idea becomes an application, data is stored thoughtfully, and the final product actually helps someone.
-      </p>
 
-      <ul>
-        <li>☕ I work with <strong>Java</strong> to build backend applications and understand server-side development</li>
-        <li>🐍 I use <strong>Python</strong> for problem-solving, DSA, experimentation, and building projects</li>
-        <li>🗄️ Currently learning <strong>MySQL</strong> to strengthen my database and backend development skills</li>
-        <li>🤖 Exploring <strong>Machine Learning</strong> with a focus on strong fundamentals</li>
-        <li>🌐 Working toward full-stack development—with a deliberate <strong>backend-first</strong> focus</li>
-        <li>🚀 Sharing the projects and lessons from that journey here on GitHub</li>
-      </ul>
-    </td>
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 
-    <td width="35%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="230" alt="Coding animation" />
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-## 🧰 Languages & Tools
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadmomin7&bg_color=0b1628&color=ffffff&line=3b82f6&point=7dd3fc&area=false&hide_border=false">
+
+</div>
+
+
+---
+
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,html,css,opencv,vscode,jupyter,anaconda,idea&perline=6"
-      alt="Python, Java, C, C++, MySQL, HTML, CSS, OpenCV, VS Code, Jupyter, Anaconda, and IntelliJ IDEA"
-    />
-  </a>
+
+<img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=The%20best%20way%20to%20learn%20is%20to%20build.&theme=dark&bg_color=0b1628&author_color=7dd3fc&accent_color=3b82f6">
+
 </p>
 
-## 📚 In my learning lab
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/Relational_Databases-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
-    alt="Learning MySQL databases"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Programming-Java_%26_Python-007396?style=for-the-badge&logo=openjdk&logoColor=white"
-    alt="Java and Python"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Exploring-Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"
-    alt="Exploring machine learning"
-  />
-</p>
-
-<p align="center">
-  <i>Learning how software moves from an idea → a backend → a database → a useful experience.</i>
-</p>
-
-## 📂 What you'll find here
-
-<p align="center">
-  🧩 <b>DSA in Python</b> &nbsp;•&nbsp;
-  🧪 <b>C, C++ & Java practice</b> &nbsp;•&nbsp;
-  🗄️ <b>MySQL & Java Servlet projects</b> &nbsp;•&nbsp;
-  👁️ <b>OpenCV basics</b> &nbsp;•&nbsp;
-  🌐 <b>HTML & CSS projects</b>
-</p>
-
-## 🎯 My goals
-
-<p align="center">
-  Build full-stack fluency &nbsp;•&nbsp;
-  Develop backend depth with Java &amp; Python &nbsp;•&nbsp;
-  Strengthen database skills with MySQL &nbsp;•&nbsp;
-  Learn machine learning thoughtfully &nbsp;•&nbsp;
-  Ship useful projects consistently
-</p>
-
-<!--
-  Optional: enable a contribution snake later with a GitHub Action.
-  The image below will appear once the workflow has generated it on the output branch.
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/ahmadmomin7/ahmadmomin7/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/ahmadmomin7/ahmadmomin7/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/ahmadmomin7/ahmadmomin7/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
--->
-
-## 🤝 Connect with me
-
-<p align="center">
-  <a href="https://github.com/ahmadmomin7">
-    <img
-      src="https://img.shields.io/badge/GitHub-ahmadmomin7-181717?style=for-the-badge&logo=github"
-      alt="Ahmad Momin on GitHub"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <i>⭐ Learning step by step and building in public.</i>
-</p>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6C63FF&height=110&section=footer"
-    alt="Footer wave"
-  />
+  <i>⭐ Learning step by step. Building useful things. Growing every day.</i>
 </p>

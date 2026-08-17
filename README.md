@@ -1,92 +1,238 @@
-# 💫 About Me:
+name: Update LeetCode Stats
 
-<br>
+on:
+  schedule:
+    - cron: "0 */6 * * *"
 
-- 🎓 Third-year B.Tech CSE Student
-- 💻 Passionate about Software Development, DSA & Problem Solving
-- ☕ I know **Java** and **Python** for application development and problem-solving
-- 🗄️ Currently learning **MySQL** and strengthening my database skills
-- 🤖 Exploring **Machine Learning** with a focus on strong fundamentals
-- 🌐 Working toward **Full Stack Development** with a backend-first approach
-- 🚀 Building practical projects and learning by doing
-- 🤝 Open to collaborating on interesting projects, Open Source & Hackathons
-- ⚡ Fun fact: I enjoy turning problems into working code 😄
+  workflow_dispatch:
 
-## 🌐 Socials:
+permissions:
+  contents: write
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmadmomin7)
+jobs:
+  update-leetcode:
+    runs-on: ubuntu-latest
 
-# 💻 Tech Stack:
+    steps:
 
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Java Servlets](https://img.shields.io/badge/Java%20Servlets-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%230078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-# 📚 Currently Learning:
+      - name: Fetch LeetCode Stats
+        run: |
 
-![MySQL](https://img.shields.io/badge/Learning-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Exploring-Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Backend Development](https://img.shields.io/badge/Backend-Development-6C63FF?style=for-the-badge)
+          python - <<'PY'
 
-# 🚀 What I'm Working On:
+          import json
+          import urllib.request
+          import sys
 
-- 🧩 Solving **DSA problems in Python**
-- ☕ Building backend applications using **Java**
-- 🗄️ Developing projects with **MySQL**
-- 🤖 Exploring **Machine Learning projects**
-- 👁️ Learning and experimenting with **OpenCV**
-- 🌐 Improving my **Full Stack Development** skills
+          USERNAME = "enum101"
 
-# 🎯 Goals:
+          query = """
+          query getUserProfile($username: String!) {
+            matchedUser(username: $username) {
+              username
 
-- Become strong in **Data Structures & Algorithms**
-- Build solid **backend development** skills
-- Master **Java, Python & MySQL**
-- Build useful **Machine Learning applications**
-- Develop and deploy real-world projects
-- Contribute to **Open Source**
-- Keep learning and building consistently
+              submitStats: submitStatsGlobal {
+                acSubmissionNum {
+                  difficulty
+                  count
+                }
+              }
+            }
+          }
+          """
 
-# 📊 GitHub Stats:
+          payload = json.dumps({
+              "query": query,
+              "variables": {
+                  "username": USERNAME
+              }
+          }).encode("utf-8")
 
-![](https://github-readme-stats.vercel.app/api?username=ahmadmomin7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+          request = urllib.request.Request(
+              "https://leetcode.com/graphql",
+              data=payload,
+              headers={
+                  "Content-Type": "application/json",
+                  "Referer": "https://leetcode.com/",
+                  "User-Agent": "Mozilla/5.0"
+              },
+              method="POST"
+          )
 
-![](https://streak-stats.demolab.com/?user=ahmadmomin7&theme=dark&hide_border=false)<br/>
+          try:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadmomin7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+              with urllib.request.urlopen(request) as response:
+                  data = json.loads(
+                      response.read().decode("utf-8")
+                  )
 
-# 🧩 LeetCode Stats:
+          except Exception as e:
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/ahmadmomin7?theme=dark&font=baloo&ext=heatmap" alt="Ahmad's LeetCode Stats" />
-</p>
+              print("Failed to connect to LeetCode")
+              print(e)
+              sys.exit(1)
 
----
+          if "errors" in data:
 
-[![](https://komarev.com/ghpvc/?username=ahmadmomin7&icon=1&color=0)](https://visitcount.itsvg.in)
+              print("LeetCode returned an error:")
+              print(data["errors"])
+              sys.exit(1)
 
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+          user = data["data"]["matchedUser"]
 
-<div align="center">
+          if user is None:
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadmomin7&bg_color=0b1628&color=ffffff&line=3b82f6&point=7dd3fc&area=false&hide_border=false">
+              print("LeetCode username not found:")
+              print(USERNAME)
+              sys.exit(1)
 
-</div>
+          stats = user["submitStats"]["acSubmissionNum"]
 
-<p align="center">
-  <i>⭐ Learning step by step. Building useful things. Growing every day.</i>
-</p>
+          solved = {}
+
+          for item in stats:
+
+              difficulty = item["difficulty"]
+              count = item["count"]
+
+              solved[difficulty] = count
+
+          total = solved.get("All", 0)
+          easy = solved.get("Easy", 0)
+          medium = solved.get("Medium", 0)
+          hard = solved.get("Hard", 0)
+
+          print("================================")
+          print("       LEETCODE STATISTICS")
+          print("================================")
+
+          print(f"Total  : {total}")
+          print(f"Easy   : {easy}")
+          print(f"Medium : {medium}")
+          print(f"Hard   : {hard}")
+
+          print("================================")
+
+          with open("leetcode_stats.txt", "w") as file:
+
+              file.write(
+                  f"{total}|{easy}|{medium}|{hard}"
+              )
+
+          PY
+
+
+      - name: Update README
+        run: |
+
+          python - <<'PY'
+
+          from datetime import datetime, timezone
+
+          with open("leetcode_stats.txt", "r") as file:
+
+              total, easy, medium, hard = (
+                  file.read()
+                  .strip()
+                  .split("|")
+              )
+
+          today = datetime.now(
+              timezone.utc
+          ).strftime("%d %B %Y")
+
+
+          new_section = f"""<!-- LEETCODE-STATS:START -->
+
+          <div align="center">
+
+          <a href="https://leetcode.com/u/enum101/">
+
+          <img src="https://leetcard.jacoblin.cool/enum101?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats">
+
+          </a>
+
+          <br><br>
+
+          | 🧩 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
+          |:---:|:---:|:---:|:---:|
+          | **{total}** | **{easy}** | **{medium}** | **{hard}** |
+
+          <br>
+
+          <sub>Last updated: {today}</sub>
+
+          </div>
+
+          <!-- LEETCODE-STATS:END -->"""
+
+
+          with open(
+              "README.md",
+              "r",
+              encoding="utf-8"
+          ) as file:
+
+              readme = file.read()
+
+
+          start = "<!-- LEETCODE-STATS:START -->"
+          end = "<!-- LEETCODE-STATS:END -->"
+
+
+          if start in readme and end in readme:
+
+              before = readme.split(start)[0]
+
+              after = readme.split(end)[1]
+
+              readme = (
+                  before
+                  + new_section
+                  + after
+              )
+
+          else:
+
+              readme += (
+                  "\n\n"
+                  + new_section
+                  + "\n"
+              )
+
+
+          with open(
+              "README.md",
+              "w",
+              encoding="utf-8"
+          ) as file:
+
+              file.write(readme)
+
+          PY
+
+
+      - name: Commit changes
+        run: |
+
+          git config user.name "github-actions[bot]"
+
+          git config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          if git diff --cached --quiet; then
+
+            echo "No changes to commit"
+
+          else
+
+            git commit -m "Update LeetCode stats"
+
+            git push
+
+          fi

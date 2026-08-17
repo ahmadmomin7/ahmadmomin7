@@ -90,17 +90,6 @@
 </div>
 
 
----
-
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-<p align="center">
-
-<img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=The%20best%20way%20to%20learn%20is%20to%20build.&theme=dark&bg_color=0b1628&author_color=7dd3fc&accent_color=3b82f6">
-
-</p>
-
-
 <p align="center">
   <i>⭐ Learning step by step. Building useful things. Growing every day.</i>
 </p>

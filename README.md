@@ -1,54 +1,103 @@
-# Hi 👋, I'm Ahmad Momin
+<!-- Profile README for github.com/ahmadmomin7 -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
-<br><br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6C63FF&height=180&section=header&text=Ahmad%20Momin&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" alt="Ahmad Momin banner" />
+</p>
 
-🌱 Aspiring Software Developer | Learning DSA | Exploring Web & Computer Vision  
+<h1 align="center">Hi there, I'm Ahmad <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="waving hand" /></h1>
 
-I am focused on building **strong programming fundamentals** and improving my **problem-solving skills**.  
-Currently, I’m practicing **Data Structures and Algorithms in Python** and planning to learn **JavaScript** next.
+<p align="center">
+  <a href="https://github.com/ahmadmomin7">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;Learning+DSA+with+Python;Exploring+Web+Development+%26+Computer+Vision" alt="Typing introduction" />
+  </a>
+</p>
 
----
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45"/>
+<p align="center">
+  <a href="https://github.com/ahmadmomin7?tab=followers"><img src="https://img.shields.io/github/followers/ahmadmomin7?style=for-the-badge&logo=github&label=Followers&color=0E75B6" alt="GitHub followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ahmadmomin7&style=for-the-badge&color=0E75B6&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
 
-## 📚 Currently Learning
-- 🔹 Data Structures & Algorithms using **Python**
-- 🔹 Improving logic and problem-solving skills
-- 🔹 Preparing to learn **JavaScript**
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h3>👨‍💻 About me</h3>
+      <p>I’m an aspiring software developer focused on building strong programming fundamentals and becoming a better problem solver—one project at a time.</p>
+      <ul>
+        <li>🌱 Currently practicing <strong>Data Structures &amp; Algorithms with Python</strong></li>
+        <li>🧠 Improving my logic, consistency, and problem-solving skills</li>
+        <li>🌐 Preparing to learn <strong>JavaScript</strong> for web development</li>
+        <li>👁️ Exploring the foundations of <strong>Computer Vision</strong> with OpenCV</li>
+        <li>🚀 Building in public and sharing my progress here on GitHub</li>
+      </ul>
+    </td>
+    <td width="35%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="230" alt="Coding animation" />
+    </td>
+  </tr>
+</table>
 
----
+## 🧰 Languages & tools
 
-## 📂 What You’ll Find on My GitHub
-- 🧩 **DSA in Python** – arrays, strings, loops, conditions  
-- 🧪 **C Programs** – fundamentals  
-- 🧪 **C++ Programs** – beginner practice  
-- 👁️ **OpenCV Basics** – simple image processing projects  
-- 🌐 **HTML & CSS** – basic web pages  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,opencv&perline=6" alt="Python, C, C++, HTML, CSS, and OpenCV" />
+  </a>
+</p>
 
----
+## 📚 Currently learning
 
-## 🎯 Goals
-- Strengthen DSA concepts
-- Become confident in Python
-- Learn JavaScript for web development
-- Upload projects consistently
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="DSA with Python" />
+  <img src="https://img.shields.io/badge/Next_up-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222" alt="Learning JavaScript next" />
+</p>
 
----
+## 📂 What you'll find here
 
-## 📫 Connect With Me
-- GitHub: https://github.com/ahmadmomin7
+<p align="center">
+  🧩 <b>DSA in Python</b> &nbsp;•&nbsp;
+  🧪 <b>C & C++ practice</b> &nbsp;•&nbsp;
+  👁️ <b>OpenCV basics</b> &nbsp;•&nbsp;
+  🌐 <b>HTML & CSS projects</b>
+</p>
 
-⭐ *Learning step by step and building in public.*
+## 🎯 My goals
+
+<p align="center">
+  Strengthen my DSA foundations &nbsp;•&nbsp; Become confident with Python &nbsp;•&nbsp; Learn JavaScript &nbsp;•&nbsp; Ship projects consistently
+</p>
+
+## 📈 GitHub activity
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahmadmomin7&show_icons=true&hide_border=true&title_color=0E75B6&icon_color=6C63FF&text_color=555&bg_color=00000000" alt="Ahmad's GitHub statistics" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=ahmadmomin7&hide_border=true&background=FFFFFF00&ring=0E75B6&fire=6C63FF&currStreakLabel=0E75B6" alt="Ahmad's GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadmomin7&bg_color=ffffff&color=444444&line=0e75b6&point=6c63ff&area=true&hide_border=true" alt="Ahmad's GitHub activity graph" />
+</p>
+
+<!--
+  Optional: enable a contribution snake later with a GitHub Action.
+  The image below will appear once the workflow has generated it on the output branch.
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmadmomin7/ahmadmomin7/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmadmomin7/ahmadmomin7/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ahmadmomin7/ahmadmomin7/output/github-contribution-grid-snake.svg" />
+  </picture>
+-->
+
+## 🤝 Connect with me
+
+<p align="center">
+  <a href="https://github.com/ahmadmomin7"><img src="https://img.shields.io/badge/GitHub-ahmadmomin7-181717?style=for-the-badge&logo=github" alt="Ahmad Momin on GitHub" /></a>
+</p>
+
+<p align="center"><i>⭐ Learning step by step and building in public.</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6C63FF&height=110&section=footer" alt="Footer wave" />
+</p>

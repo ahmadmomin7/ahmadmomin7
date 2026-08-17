@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/ahmadmomin7">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;Learning+DSA+with+Python;Exploring+Web+Development+%26+Computer+Vision" alt="Typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Backend-minded+Full-Stack+Learner;Learning+Java%2C+Python+%26+MySQL;Exploring+Machine+Learning" alt="Typing introduction" />
   </a>
 </p>
 
@@ -23,13 +23,13 @@
   <tr>
     <td width="65%" valign="top">
       <h3>👨‍💻 About me</h3>
-      <p>I’m an aspiring software developer focused on building strong programming fundamentals and becoming a better problem solver—one project at a time.</p>
+      <p>I’m building from programming fundamentals toward real systems—the kind where an idea becomes an API, data is stored thoughtfully, and the final product actually helps someone.</p>
       <ul>
-        <li>🌱 Currently practicing <strong>Data Structures &amp; Algorithms with Python</strong></li>
-        <li>🧠 Improving my logic, consistency, and problem-solving skills</li>
-        <li>🌐 Preparing to learn <strong>JavaScript</strong> for web development</li>
-        <li>👁️ Exploring the foundations of <strong>Computer Vision</strong> with OpenCV</li>
-        <li>🚀 Building in public and sharing my progress here on GitHub</li>
+        <li>🗄️ Learning how to design and query relational data with <strong>MySQL</strong></li>
+        <li>☕ Growing my backend foundation with <strong>Java</strong> and <strong>Python</strong></li>
+        <li>🤖 Exploring <strong>Machine Learning</strong> with a focus on strong fundamentals</li>
+        <li>🌐 Working toward full-stack development—with a deliberate <strong>backend-first</strong> focus</li>
+        <li>🚀 Sharing the projects and lessons from that journey here on GitHub</li>
       </ul>
     </td>
     <td width="35%" align="center">
@@ -53,12 +53,15 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
 
-## 📚 Currently learning
+## 📚 In my learning lab
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="DSA with Python" />
-  <img src="https://img.shields.io/badge/Next_up-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222" alt="Learning JavaScript next" />
+  <img src="https://img.shields.io/badge/Relational_Databases-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Learning MySQL databases" />
+  <img src="https://img.shields.io/badge/Backend_Foundations-Java_%26_Python-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Learning backend development with Java and Python" />
+  <img src="https://img.shields.io/badge/Exploring-Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Exploring machine learning" />
 </p>
+
+<p align="center"><i>Learning how software moves from an idea → a backend → a database → a useful experience.</i></p>
 
 ## 📂 What you'll find here
 
@@ -73,7 +76,7 @@
 ## 🎯 My goals
 
 <p align="center">
-  Strengthen my DSA foundations &nbsp;•&nbsp; Become confident with Python &nbsp;•&nbsp; Learn JavaScript &nbsp;•&nbsp; Ship projects consistently
+  Build full-stack fluency &nbsp;•&nbsp; Develop backend depth with Java, Python &amp; MySQL &nbsp;•&nbsp; Learn machine learning thoughtfully &nbsp;•&nbsp; Ship useful projects consistently
 </p>
 
 <!--
@@ -98,3 +101,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6C63FF&height=110&section=footer" alt="Footer wave" />
 </p>
+

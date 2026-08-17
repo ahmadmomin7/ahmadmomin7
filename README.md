@@ -100,10 +100,6 @@
 
 <br><br>
 
-<br>
-
-<sub>🔄 Stats automatically updated from LeetCode by GitHub Actions.</sub>
-
 </div>
 
 <!-- LEETCODE-STATS:END -->

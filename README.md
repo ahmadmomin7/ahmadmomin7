@@ -42,8 +42,15 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,opencv&perline=6" alt="Python, C, C++, HTML, CSS, and OpenCV" />
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,html,css,opencv&perline=8" alt="Python, Java, C, C++, MySQL, HTML, CSS, and OpenCV" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Java_Servlets-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Servlets" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
 
 ## 📚 Currently learning
@@ -57,7 +64,8 @@
 
 <p align="center">
   🧩 <b>DSA in Python</b> &nbsp;•&nbsp;
-  🧪 <b>C & C++ practice</b> &nbsp;•&nbsp;
+  🧪 <b>C, C++ & Java practice</b> &nbsp;•&nbsp;
+  🗄️ <b>MySQL & Java Servlet projects</b> &nbsp;•&nbsp;
   👁️ <b>OpenCV basics</b> &nbsp;•&nbsp;
   🌐 <b>HTML & CSS projects</b>
 </p>

@@ -12,11 +12,9 @@
 - 🤝 Open to collaborating on interesting projects, Open Source & Hackathons
 - ⚡ Fun fact: I enjoy turning problems into working code 😄
 
-
 ## 🌐 Socials:
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmadmomin7)
-
 
 # 💻 Tech Stack:
 
@@ -38,13 +36,11 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-%230078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-
 # 📚 Currently Learning:
 
 ![MySQL](https://img.shields.io/badge/Learning-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Exploring-Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Backend Development](https://img.shields.io/badge/Backend-Development-6C63FF?style=for-the-badge)
-
 
 # 🚀 What I'm Working On:
 
@@ -54,7 +50,6 @@
 - 🤖 Exploring **Machine Learning projects**
 - 👁️ Learning and experimenting with **OpenCV**
 - 🌐 Improving my **Full Stack Development** skills
-
 
 # 🎯 Goals:
 
@@ -66,7 +61,6 @@
 - Contribute to **Open Source**
 - Keep learning and building consistently
 
-
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=ahmadmomin7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -75,11 +69,15 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadmomin7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 🧩 LeetCode Stats:
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ahmadmomin7?theme=dark&font=baloo&ext=heatmap" alt="Ahmad's LeetCode Stats" />
+</p>
 
 ---
 
 [![](https://komarev.com/ghpvc/?username=ahmadmomin7&icon=1&color=0)](https://visitcount.itsvg.in)
-
 
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 
@@ -88,7 +86,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadmomin7&bg_color=0b1628&color=ffffff&line=3b82f6&point=7dd3fc&area=false&hide_border=false">
 
 </div>
-
 
 <p align="center">
   <i>⭐ Learning step by step. Building useful things. Growing every day.</i>

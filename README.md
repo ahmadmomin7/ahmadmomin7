@@ -13,7 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ahmadmomin7?tab=followers"><img src="https://img.shields.io/github/followers/ahmadmomin7?style=for-the-badge&logo=github&label=Followers&color=0E75B6" alt="GitHub followers" /></a>
+  <a href="https://github.com/ahmadmomin7?tab=followers">
+    <img src="https://img.shields.io/github/followers/ahmadmomin7?style=for-the-badge&logo=github&label=Followers&color=0E75B6" alt="GitHub followers" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=ahmadmomin7&style=for-the-badge&color=0E75B6&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
@@ -23,7 +25,11 @@
   <tr>
     <td width="65%" valign="top">
       <h3>👨‍💻 About me</h3>
-      <p>I’m building from programming fundamentals toward real systems—the kind where an idea becomes an application, data is stored thoughtfully, and the final product actually helps someone.</p>
+
+      <p>
+        I’m building from programming fundamentals toward real systems—the kind where an idea becomes an application, data is stored thoughtfully, and the final product actually helps someone.
+      </p>
+
       <ul>
         <li>☕ I work with <strong>Java</strong> to build backend applications and understand server-side development</li>
         <li>🐍 I use <strong>Python</strong> for problem-solving, DSA, experimentation, and building projects</li>
@@ -33,36 +39,46 @@
         <li>🚀 Sharing the projects and lessons from that journey here on GitHub</li>
       </ul>
     </td>
+
     <td width="35%" align="center">
       <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="230" alt="Coding animation" />
     </td>
   </tr>
 </table>
 
-## 🧰 Languages & tools
+## 🧰 Languages & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,html,css,opencv&perline=8" alt="Python, Java, C, C++, MySQL, HTML, CSS, and OpenCV" />
+    <img
+      src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,html,css,opencv,vscode,jupyter,anaconda,idea&perline=6"
+      alt="Python, Java, C, C++, MySQL, HTML, CSS, OpenCV, VS Code, Jupyter, Anaconda, and IntelliJ IDEA"
+    />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Java_Servlets-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Servlets" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
 
 ## 📚 In my learning lab
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Relational_Databases-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Learning MySQL databases" />
-  <img src="https://img.shields.io/badge/Programming-Java_%26_Python-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java and Python" />
-  <img src="https://img.shields.io/badge/Exploring-Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Exploring machine learning" />
+  <img
+    src="https://img.shields.io/badge/Relational_Databases-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
+    alt="Learning MySQL databases"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Programming-Java_%26_Python-007396?style=for-the-badge&logo=openjdk&logoColor=white"
+    alt="Java and Python"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Exploring-Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"
+    alt="Exploring machine learning"
+  />
 </p>
 
-<p align="center"><i>Learning how software moves from an idea → a backend → a database → a useful experience.</i></p>
+<p align="center">
+  <i>Learning how software moves from an idea → a backend → a database → a useful experience.</i>
+</p>
 
 ## 📂 What you'll find here
 
@@ -89,20 +105,39 @@
   The image below will appear once the workflow has generated it on the output branch.
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmadmomin7/ahmadmomin7/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmadmomin7/ahmadmomin7/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ahmadmomin7/ahmadmomin7/output/github-contribution-grid-snake.svg" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ahmadmomin7/ahmadmomin7/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ahmadmomin7/ahmadmomin7/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/ahmadmomin7/ahmadmomin7/output/github-contribution-grid-snake.svg"
+    />
   </picture>
 -->
 
 ## 🤝 Connect with me
 
 <p align="center">
-  <a href="https://github.com/ahmadmomin7"><img src="https://img.shields.io/badge/GitHub-ahmadmomin7-181717?style=for-the-badge&logo=github" alt="Ahmad Momin on GitHub" /></a>
+  <a href="https://github.com/ahmadmomin7">
+    <img
+      src="https://img.shields.io/badge/GitHub-ahmadmomin7-181717?style=for-the-badge&logo=github"
+      alt="Ahmad Momin on GitHub"
+    />
+  </a>
 </p>
 
-<p align="center"><i>⭐ Learning step by step and building in public.</i></p>
+<p align="center">
+  <i>⭐ Learning step by step and building in public.</i>
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6C63FF&height=110&section=footer" alt="Footer wave" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6C63FF&height=110&section=footer"
+    alt="Footer wave"
+  />
 </p>

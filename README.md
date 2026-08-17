@@ -68,17 +68,6 @@
   Strengthen my DSA foundations &nbsp;•&nbsp; Become confident with Python &nbsp;•&nbsp; Learn JavaScript &nbsp;•&nbsp; Ship projects consistently
 </p>
 
-## 📈 GitHub activity
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahmadmomin7&show_icons=true&hide_border=true&title_color=0E75B6&icon_color=6C63FF&text_color=555&bg_color=00000000" alt="Ahmad's GitHub statistics" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=ahmadmomin7&hide_border=true&background=FFFFFF00&ring=0E75B6&fire=6C63FF&currStreakLabel=0E75B6" alt="Ahmad's GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadmomin7&bg_color=ffffff&color=444444&line=0e75b6&point=6c63ff&area=true&hide_border=true" alt="Ahmad's GitHub activity graph" />
-</p>
-
 <!--
   Optional: enable a contribution snake later with a GitHub Action.
   The image below will appear once the workflow has generated it on the output branch.
